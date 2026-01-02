@@ -1,0 +1,12 @@
+php artisan serve
+
+帳號 admin@gmail.com
+pwd 12345678
+
+php artisan make:controller AdminController
+
+PS C:\xampp\htdocs\bloglara> php artisan make:controller APS C:\xampp\htdocs\bloglara> php artisan make:controller Ar
+r
+
+r
+PS C:\xampp\htdocs\bloglara> mv app/Http/Controllers/ProfileController.php app/Http/Controllers/php artisan make:middleware AdminMiddleware
